@@ -1,0 +1,22 @@
+
+h1{
+	color: red;
+	font-weight: bold;
+}
+
+#logo{
+	font: family;
+	width: 20%;
+	height: 40%;
+	display: inline;
+	position: relative;
+	margin: 5px;
+}
+#toto{
+	font: family;
+	width: 10%;
+	height: 20%;
+	left: 30%;
+	margin: 5px;
+	line-height: 10em;
+}
